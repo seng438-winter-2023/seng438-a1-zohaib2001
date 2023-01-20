@@ -33,14 +33,15 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-Prior to conducting the first lab assignment, the team went in with the limited knowledge provided in lecture content in regards to exploratory and manual functional testing. We were aware that software testing consists of finding any bugs in a system while gaining confidence in the system being tested.
+Prior to conducting the first lab assignment, the team went in with the limited knowledge provided in lecture content in regards to exploratory and manual functional testing. We were aware that software testing consists of finding any bugs in a system while gaining confidence in the system being tested. In terms of exploratory testing, we knew that this type of testing consisted of human interaction with a system and finding any bugs in the code while exploring the system. This meant that in order to create any meaningful test cases, it was important to familiarize ourselves with the ATM Machine program we were provided with in this lab.
+
 
 An introduction of your lab work, and what you knew about exploratory and manual
 functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-The exploratory testing plan for the ATM simulation system will consist of testing most of the functions a little bit, rather than testing a few functions extensively. We believe this is the best approach to testing this system, as it should provide all the required functionality as described in Appendix B. We plan to come up with the test cases by testing the most common paths taken within the system, as this would allow us to cover testing almost all of the functionality of the program with limited time and minimal tests. 
+Text…
 
 # Comparison of exploratory and manual functional testing
 
