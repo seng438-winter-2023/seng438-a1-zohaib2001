@@ -18,6 +18,7 @@
 [1 Introduction	1](#_Toc439194677)
 
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+
 The exploratory testing plan for the ATM simulation system will consist of testing most of the functions a little bit, rather than testing a few functions extensively. We believe this is the best approach to testing this system, as it should provide all the required functionality as described in Appendix B. We plan to come up with the test cases by testing the most common paths taken within the system, as this would allow us to cover testing almost all of the functionality of the program with limited time and minimal tests. 
 
 [3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
