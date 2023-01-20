@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Zohaib Ashfaq                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Zohaib Ashfaq           |   
+| William Perks           |   
+| Alex Burn               |   
+| Khevin Jugessur         |   
 
 
 **Table of Contents**
