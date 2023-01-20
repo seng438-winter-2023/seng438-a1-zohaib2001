@@ -33,6 +33,8 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
+Prior to conducting the first lab assignment, the team went in with the limited knowledge provided in lecture content in regards to exploratory and manual functional testing. We were aware that software testing consists of finding any bugs in a system while gaining confidence in the system being tested.
+
 An introduction of your lab work, and what you knew about exploratory and manual
 functional testing before this lab
 
