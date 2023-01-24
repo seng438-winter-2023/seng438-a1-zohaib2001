@@ -37,7 +37,7 @@ For this lab assignment, we had the opportunity to work with two different versi
 
 # High-level description of the exploratory testing plan
 
-Text…
+The exploratory testing plan for the ATM simulation system will consist of testing most of the functions a little bit, rather than testing a few functions extensively. We believe this is the best approach to testing this system, as it should provide all the required functionality as described in Appendix B. We plan to come up with the test cases by testing the most common paths taken within the system, as this would allow us to cover testing almost all of the functionality of the program with limited time and minimal tests.
 
 # Comparison of exploratory and manual functional testing
 
