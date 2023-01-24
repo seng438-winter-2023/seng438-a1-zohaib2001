@@ -33,11 +33,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-Prior to conducting the first lab assignment, the team went in with the limited knowledge provided in lecture content in regards to exploratory and manual functional testing. We were aware that software testing consists of finding any bugs in a system while gaining confidence in the system being tested. In terms of exploratory testing, we knew that this type of testing consisted of human interaction with a system and finding any bugs in the code while exploring the system. This meant that in order to create any meaningful test cases, it was important to familiarize ourselves with the ATM Machine program we were provided with in this lab.
-
-
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+For this lab assignment, we had the opportunity to work with two different versions of an ATM machine software. As a group, we had to explore how the software worked and create various tests to find any bugs and requirements that needed to be fulfilled. Prior to conducting the first lab assignment, the team went in with the limited knowledge provided in lecture content in regards to exploratory and manual functional testing. We were aware that software testing consists of finding any bugs in a system while gaining confidence in the system being tested. In terms of exploratory testing, we knew that this type of testing consisted of human interaction with a system and finding any bugs in the code while exploring the system. This meant that in order to create any meaningful test cases, it was important to familiarize ourselves with the ATM Machine program we were provided with in this lab. In terms of manual functional testing, there was little to none prior knowledge on the topic from any group members. The group went on to learn that this type of testing includes creating tests for the software based on the specific requirements of that software.
 
 # High-level description of the exploratory testing plan
 
